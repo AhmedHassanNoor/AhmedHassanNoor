@@ -7,7 +7,7 @@ Web Developer
 Welcome to my web developer portfolio! I am a seasoned web developer with 6 years of experience in creating dynamic and visually appealing websites. I am passionate about crafting high-quality code and delivering user-centric solutions that enhance the digital experience.
 
 * 🌍  I'm based in Cape Town, Western Cape, South Africa
-* 🚀  I'm currently working on [an ecommerce web application](http://https://relaxed-sunburst-f0b2a2.netlify.app/)
+* 🚀  I'm currently working on [an ecommerce web application](http://relaxed-sunburst-f0b2a2.netlify.app/)
 * 🧠  I'm learning System Design + Architecture
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm Batman, don't tell anyone!
